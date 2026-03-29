@@ -2,7 +2,18 @@
 
 > A professional-grade, AI-powered weather dashboard featuring **Zero-Error precision** and **Gemma 3 27B** deep-insight integration.
 
+[![Live Demo](https://img.shields.io/badge/Demo-Live_on_Vercel-success?style=for-the-badge&logo=vercel&logoColor=white)](https://lumina-weather-ai.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/KadariUday/Lumina-Weather-AI)
+
 ![Lumina Weather AI](https://raw.githubusercontent.com/KadariUday/Lumina-Weather-AI/main/frontend/public/cover.png)
+
+---
+
+## 🌐 Live Experience
+
+**Lumina Weather AI** is officially hosted and ready to use! Experience the full suite of AI insights and interactive maps directly in your browser:
+
+🔗 **Explore now**: [https://lumina-weather-ai.vercel.app/](https://lumina-weather-ai.vercel.app/)
 
 ---
 
